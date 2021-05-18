@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  
+}
+
+.cellFont{
+  font-size:small;
+}
+
+.containerSavedBanks{
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+.containerAllBanks{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.containerSearchedBanks{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
